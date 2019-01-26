@@ -1,1 +1,26 @@
-<?xml version=”1.0″ encoding=”UTF-8″?>
+﻿<rss version="2.0">
+	<channel>
+		<title>All your ABBA news at one place</title>
+
+		<item>
+			<title>Mamma Mia! The Musical</title>
+			<link>https://site-66-18.github.io/musical.html</link>
+			<description>Get your tickets!</description>
+		</item>
+		<item>
+			<title>History</title>
+			<link>https://site-66-18.github.io/index.html</link>
+			<description>Learn something new!</description>
+		</item>
+		<item>
+			<title>Top Albums</title>
+			<link>https://site-66-18.github.io/disco.html</link>
+			<description>Buy an album!</description>
+		</item>
+		<item>
+			<title>Members</title>
+			<link>https://site-66-18.github.io/band.html</link>
+			<description>Find out about the members!</description>
+		</item>
+	</channel>
+</rss>
